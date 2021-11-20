@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+#div1{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: yellow;
+}
