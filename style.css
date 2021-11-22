@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+}
+#div1{
+    width: 401px;
+    height: 90px;
+    background-color: black;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: white;
+}
+#table{
+    border-color: white;
+    width: 410px;
+    height: 91px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+#div2{
+    width: 400px;
+    height: 125px;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    text-align: center;
+    align-items: center;
+    z-index: 99;
+}
+#txt1{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#div3{
+    width: 400px;
+    height: 85px;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: black;
+    position: absolute;
+    top: 267px;
+    text-align: center;
+    align-items: center;
+    z-index: 99;
+}
+#txt2{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#div4{
+    width: 400px;
+    height: 50px;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    text-align: center;
+    align-items: center;
+    z-index: 100;
+}
+#menu{
+    z-index: 99;
+}
+#jogos{
+    z-index: 100;
+    display: none;
+}
+#title{
+    text-align: center;
+    position: absolute;
+    top: -15px;
+    left: 80px;
+    color: white;
+}
+#div5{
+    width: 400px;
+    height: 200px;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: black;
+    position: absolute;
+    top: 192px;
+    text-align: center;
+    align-items: center;
+    z-index: 100;
+}
+#txt3{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#div6{
+    width: 400px;
+    height: 125px;
+    border: solid 5px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: black;
+    position: absolute;
+    top: 414px;
+    text-align: center;
+    align-items: center;
+    z-index: 100;
+}
