@@ -1,5 +1,4 @@
-alert("this site is just a test, please exit");
+this site is just a test, please exit
 
-alert("this site is just a test, please exit");
+this site is just a test, please exit
 
-alert("this site is just a test, please exit");
